@@ -1,0 +1,5 @@
+name: SandCastle
+version: 1.0.0
+main: com.enderdevelopment.plugin.Main
+api-version: "1.21"
+description: Creates temporary indestructible sand castles.
